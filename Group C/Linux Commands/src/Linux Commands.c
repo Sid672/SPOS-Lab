@@ -1,13 +1,3 @@
-/*
- ============================================================================
- Name        : Linux.c
- Author      : Vaibhav
- Version     : 1.4
- Copyright   : Your copyright notice
- Description : Hello World in C, Ansi-style
- ============================================================================
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include<unistd.h>

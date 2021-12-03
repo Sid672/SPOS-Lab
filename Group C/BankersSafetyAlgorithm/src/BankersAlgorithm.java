@@ -10,7 +10,7 @@ public class BankersAlgorithm {
 	System.out.println("Enter Number of resources:");
 	m=sc.nextInt();
 	
-	System.out.println("ENter Number of  processes:");
+	System.out.println("Enter Number of  processes:");
 	n=sc.nextInt();
 	//CREATE ALL REQUIRED DATA STRUCTURES
 	int AVAILABLE[]=new int[m];
